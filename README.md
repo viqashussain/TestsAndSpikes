@@ -1,0 +1,3 @@
+# TestsAndSpikes
+
+Example EntityFramework Project
